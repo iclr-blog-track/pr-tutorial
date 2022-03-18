@@ -6,6 +6,9 @@
     ![image](https://user-images.githubusercontent.com/31974070/159055234-5ec4861e-87ca-459c-8093-ba9fd943d42c.png) 
     
     Take note of this URL!
+    
+    ![image](https://user-images.githubusercontent.com/31974070/159062054-2b29c739-16b9-4ec5-9ec1-3a9a549422be.png)
+
 5. Select branch "master" in Source 
 
     ![image](https://user-images.githubusercontent.com/31974070/159055294-e38e9dc8-6053-4fe7-8a04-307272198403.png)
