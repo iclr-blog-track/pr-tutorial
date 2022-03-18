@@ -16,7 +16,7 @@
 8. Edit the url in `_config.yml`. To do so, simply comment out the old url, and add the one you obtained in step 2. 
 
     ![image](https://user-images.githubusercontent.com/31974070/159060707-6e6526ea-387c-4074-9102-76bcb540f9ed.png)
-10. Upload your post and assets. Make sure everything renders by visiting the url obtained in step 2. Take care to implement the changes requested by your reviewers if need be.
+10. Upload your post and assets. Make sure everything renders correctly by visiting the url obtained in step 2. Take care to implement the changes requested by your reviewers if need be.
 11. When you are ready to make your PR, create a branch named using your blog post's title. In this branch, undo your changes to the `_config.yml`. Create a PR from this new branch to the main repository's master branch. You can do so by cliking on the "Contribute" button. 
 
     ![image](https://user-images.githubusercontent.com/31974070/159061624-b0a85c3c-6ce1-4228-9178-cfc8185aef91.png) Voilà!
