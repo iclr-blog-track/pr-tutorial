@@ -20,3 +20,7 @@
 11. When you are ready to make your PR, create a branch named using your blog post's title. In this branch, undo your changes to the `_config.yml`. Create a PR from this new branch to the main repository's master branch. You can do so by cliking on the "Contribute" button. 
 
     ![image](https://user-images.githubusercontent.com/31974070/159061624-b0a85c3c-6ce1-4228-9178-cfc8185aef91.png) Voilà!
+
+    As a sanity check, the only files changed in this PR should be your post and its assets.
+    
+    ![image](https://user-images.githubusercontent.com/31974070/159062613-120d572b-9300-46bc-9a52-05d3b84677d0.png)
