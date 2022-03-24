@@ -28,3 +28,5 @@
     As a sanity check, the only files changed in this PR should be your post and its assets.
     
     ![image](https://user-images.githubusercontent.com/31974070/159062613-120d572b-9300-46bc-9a52-05d3b84677d0.png)
+
+12. We will then review your PR and merge it.
