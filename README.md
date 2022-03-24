@@ -20,6 +20,10 @@
 11. When you are ready to make your PR, create a branch named using your blog post's title. In this branch, undo your changes to the `_config.yml`. Create a PR from this new branch to the main repository's master branch. You can do so by cliking on the "Contribute" button. 
 
     ![image](https://user-images.githubusercontent.com/31974070/159061624-b0a85c3c-6ce1-4228-9178-cfc8185aef91.png) Voilà!
+    
+    Make sure that the base repository is the ICLR blog track's blog, and not `poole/lanyon` 
+    
+    ![image](https://user-images.githubusercontent.com/31974070/159993554-d762151f-3f7d-49af-a1b5-f62abdb5144e.png)
 
     As a sanity check, the only files changed in this PR should be your post and its assets.
     
