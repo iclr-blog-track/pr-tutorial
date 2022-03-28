@@ -16,7 +16,15 @@ We additionally provide optional instructions for hosting github pages on your o
 
 3. **Upload your post and assets.** 
     **Ensure you implemented any of the changes/modifications requested by the reviewers on OpenReview**.
-    Recall that your modifications are expected to be at most:
+    As a reminder, your contributions should be:
+    
+    - Your blog post in `_posts/2022-03-25-[YOUR SUBMISSION].md`
+    - (Optionally) any static images must be in `public/images/2022-03-25-[YOUR SUBMISSION]/`
+    - (Optionally) any HTML content must be in `_includes/2022-03-25-[YOUR SUBMISSION]/`
+    
+    where `2022-03-25-[YOUR SUBMISSION]` is the same string across the blog post file and two directories (note the updated date).
+    Any other changes in your pull request will be rejected and you will be asked to modify your PR accordingly.
+    Visually, we expect the changes to look like the following:
     ```bash
     iclr-blog-track.github.io/
     │
@@ -35,8 +43,9 @@ We additionally provide optional instructions for hosting github pages on your o
     │   └── ...
     └── ...
     ```
-    Take care to follow this format with the consistent naming scheme using the same `2022-03-25-[YOUR SUBMISSION]` tag on the blog post and asset directories (note the updated date).
-    We will not accept any changes made outside of these specified folders and files. 
+
+    
+    
 
 4. **Create a pull request to our repo's master branch.**
     You can do so by clicking on the `Contribute` button. 
