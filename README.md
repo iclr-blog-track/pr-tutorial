@@ -9,7 +9,7 @@ We additionally provide optional instructions for hosting github pages on your o
     Create a branch where you will be staging all of your content for the pull request.
 
 2. (Optional*) If you wish to preview your posts before making a pull request, you can follow the 
-    instructions provided in [Previewing your blog posts](#(Optional)-Previewing-your-blog-posts) 
+    instructions provided in [Previewing your blog posts](#optional-previewing-your-blog-posts) 
     section to setup github pages on your fork.
     This is strictly for debugging purposes and is not required if you wish to just proceed with a pull request. 
     **Note: if you follow these steps, we ask that you take down the hosted site when you're done with the pull request to avoid any potential confusion with the official ICLR site.*
